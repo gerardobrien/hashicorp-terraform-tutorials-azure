@@ -20,7 +20,7 @@ resource "azurerm_resource_group" "rg" {
 
   tags = {
     Environment = "Terraform Getting Started"
-    Owner = "Gerard O'Brien"
+    Owner = "Gerard OBrien"
   }
 }
 
